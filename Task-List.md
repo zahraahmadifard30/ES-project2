@@ -38,6 +38,7 @@
 | FEAT-017 | Publisher Profile | P1 | TODO | TODO | — | TODO | TODO | Not started |
 | FEAT-018 | Reading Experience | P1 | TODO | TODO | TODO | TODO | TODO | Not started |
 | FEAT-019 | Reading Progress Tracking | P2 | TODO | TODO | — | TODO | TODO | Not started |
+| FEAT-020 | Frontend: Login Page (Vue 3) | P0 | TODO | TODO | — | TODO | TODO | Planning |
 
 ---
 
