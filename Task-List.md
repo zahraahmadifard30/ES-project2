@@ -19,7 +19,7 @@
 
 | ID | Feature | Priority | SPEC.md | PLAN.md | ADR | Tests | Impl | Status |
 |----|---------|----------|---------|---------|-----|-------|------|--------|
-| FEAT-001 | Authentication & Registration | P0 | TODO | TODO | TODO | TODO | TODO | Planning |
+| FEAT-001 | Authentication & Registration | P0 | WIP | WIP | WIP | TODO | TODO | WIP |
 | FEAT-002 | Categories & Tags | P1 | TODO | TODO | — | TODO | TODO | Not started |
 | FEAT-003 | Home Page & Curated Sections | P1 | TODO | TODO | TODO | TODO | TODO | Not started |
 | FEAT-004 | Book Search & Filtering | P0 | TODO | TODO | TODO | TODO | TODO | Not started |
